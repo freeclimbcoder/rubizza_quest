@@ -1,0 +1,28 @@
+name: "Sergey "
+
+contacts:
+  email: "climbcoder@gmail.com"
+
+social:
+  github: "freeclimbcoder"
+  vk: "chel_pavliuk"
+
+languages:
+  - name: JavaScript
+  - name: Shell
+  - name: PHP
+  - name: C++
+  - name: Python
+  - name: Django
+  - name: Java
+  - name: HTML/CSS (Web Standards)
+
+education:
+  - title: Program Engineer
+    when: 2014-2019
+    institution: ELTECH
+
+experience:
+  - title: Junior Developer
+    company: Spectando.
+    when: 2017-2017
