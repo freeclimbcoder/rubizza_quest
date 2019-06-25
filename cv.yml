@@ -15,7 +15,8 @@ languages:
   - name: Python
   - name: Django
   - name: Java
-  - name: HTML/CSS (Web Standards)
+  - name: HTML/CSS
+  - name: NoSql (Mongo, neo4j)
 
 education:
   - title: Program Engineer
