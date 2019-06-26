@@ -12,11 +12,10 @@ languages:
   - name: Shell
   - name: PHP
   - name: C++
-  - name: Python
+  - name: Python (Django, NoSql (Mongo, neo4j))
   - name: Django
   - name: Java
   - name: HTML/CSS
-  - name: NoSql (Mongo, neo4j)
 
 education:
   - title: Program Engineer
