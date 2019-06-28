@@ -1,28 +1,10 @@
-name: "Sergey "
-
-contacts:
-  email: "climbcoder@gmail.com"
-
-social:
-  github: "freeclimbcoder"
-  vk: "chel_pavliuk"
-
-languages:
-  - name: JavaScript
-  - name: Shell
-  - name: PHP
-  - name: C++
-  - name: Python (Django, NoSql (Mongo, neo4j))
-  - name: Django
-  - name: Java
-  - name: HTML/CSS
-
-education:
-  - title: Program Engineer
-    when: 2014-2019
-    institution: ELTECH
-
-experience:
-  - title: Junior Developer
-    company: Spectando.
-    when: 2017-2017
+goal: to become good Ruby developer
+have_a_job: -
+laptop: thinkPad t430s, Win10, Mint
+english: Upper-Intermediate
+phone_number: + 79214077999
+hours_per_day: 8+
+age: 22
+full_name: Pavliuk Sergei
+education: ElTech, programm engineer 
+programming_languages: ruby, C++, Java, Python
